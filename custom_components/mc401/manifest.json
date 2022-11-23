@@ -1,0 +1,13 @@
+{
+  "domain": "mc401",
+  "name": "Kamstrup Multical 401 meter reader",
+  "documentation": "https://github.com/michelderu/Home-Assistant-Sensor-MC401",
+  "issue_tracker": "https://github.com/michelderu/Home-Assistant-Sensor-MC401/issues",
+  "version": "1.0.0",
+  "codeowners": [
+    "@michelderu"
+  ],
+  "requirements": [
+    "pyserial"
+  ]
+}
